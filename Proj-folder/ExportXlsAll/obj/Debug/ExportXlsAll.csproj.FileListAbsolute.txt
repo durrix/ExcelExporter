@@ -40,3 +40,26 @@ C:\Users\greyu\Downloads\shit\call\ExportXlsAll\ExportXlsAll\obj\Debug\ExportXls
 C:\Users\greyu\Downloads\shit\call\ExportXlsAll\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.CopyComplete
 C:\Users\greyu\Downloads\shit\call\ExportXlsAll\ExportXlsAll\obj\Debug\ExportXlsAll.dll
 C:\Users\greyu\Downloads\shit\call\ExportXlsAll\ExportXlsAll\obj\Debug\ExportXlsAll.pdb
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\bin\Debug\ExportXlsAll.dll
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\bin\Debug\ExportXlsAll.pdb
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\bin\Debug\KeePass.exe.config
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\bin\Debug\KeePass.XmlSerializers.dll
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.AssemblyReference.cache
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.SelectionForm.resources
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.GenerateResource.cache
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.CoreCompileInputs.cache
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.CopyComplete
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.dll
+C:\Users\league\Desktop\Proj-folder\ExportXlsAll\obj\Debug\ExportXlsAll.pdb
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\bin\Debug\ExportXlsAll.dll
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\bin\Debug\ExportXlsAll.pdb
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\bin\Debug\KeePass.exe
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\bin\Debug\KeePass.exe.config
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\bin\Debug\KeePass.XmlSerializers.dll
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.SelectionForm.resources
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.GenerateResource.cache
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.CoreCompileInputs.cache
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.CopyComplete
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.dll
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.pdb
+C:\Users\greyu\Downloads\Plugin\Plugin FinalVersion\ExportXlsAll\obj\Debug\ExportXlsAll.csproj.AssemblyReference.cache
